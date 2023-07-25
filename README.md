@@ -14,5 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### Here is the Screenshot of the project
-
+## Here is Screenshot of the project
+![image](https://github.com/purisaurabh/cryptocurrency-price-update/assets/87465792/3ea96616-cd7e-431e-a5c2-c4a834c75163)
